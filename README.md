@@ -1,2 +1,17 @@
-# matplotlib-practice
-A structured collection of Matplotlib practice and data visualization exercises covering plotting, customization, subplots, and visual analysis.
+# Data Visualization
+
+A structured collection of hands-on Python notebooks and exercises focused on data visualization using Matplotlib and Seaborn.
+
+## Repository Structure
+
+data-visualization/
+│
+├── matplotlib/
+│   ├── README.md
+│   └── Matplotlib notebooks & exercises
+│
+├── seaborn/
+│   ├── README.md
+│   └── Seaborn notebooks & exercises
+│
+└── README.md
