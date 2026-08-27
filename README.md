@@ -6,7 +6,7 @@ A structured collection of hands-on Python notebooks and exercises focused on **
 
 - `matplotlib/` — Matplotlib practice and exercises
 - `seaborn/` — Seaborn practice and exercises
-- 'plotly/' — Plotly practice and exercises
+- `Plotly/` — Plotly practice and exercises
   
 ## Technologies
 
